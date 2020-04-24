@@ -1,0 +1,6 @@
+framework module MPWeexSDK {
+  umbrella header "MPWeexSDK.h"
+
+  export *
+  module * { export * }
+}
